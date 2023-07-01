@@ -4,8 +4,8 @@ Created on Fri Jun 30 16:43:06 2023
 
 @author: PaulaGuijarroMartinez
 """
-#from testLabyrinth import testLabyrinth
-
+# Call test function. In order to test the code with other labyrinth, change testLabyrinth function
+from testLabyrinth import testLabyrinth
 
 # ==========DEINE NECESSARY FUNCTIONS=======
 def isPositionBlocked(labyrinth, orientation, head):
