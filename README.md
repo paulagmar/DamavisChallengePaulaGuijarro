@@ -1,4 +1,3 @@
-## Damavis
 # Damavis Engineer Challenge 2023
 **Python code for Damavis Engineer Challenge.**
 
